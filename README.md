@@ -1,9 +1,10 @@
 # 登入介面
 以Express & Node.js打造的登入介面
-[!img](https://github.com/apple890493/my-login/blob/master/2-3A10.JPG)
+<img src="https://github.com/apple890493/my-login/blob/master/2-3A10.JPG" width="350">
 
 ## 功能列表
 - 篩選是否信箱及密碼與資料一致
+- 使用Session機制能在30秒內保持登入狀態
 
 ### 啟動方式
 - 將專案clone到本地端
