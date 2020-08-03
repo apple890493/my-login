@@ -21,4 +21,5 @@
 - Node.js: v10.15.0
 - Express: v4.17.1
 - Express-Handlebars: 5.1.0
-- Body-parser": 1.19.0
+- Body-parser: 1.19.0
+- Express-session: "^1.17.1
